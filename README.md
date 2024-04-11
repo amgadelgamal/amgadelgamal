@@ -36,4 +36,4 @@ Have a look at my [personal website](https://amgadelgamal.github.io/portfolio/)!
 
 ## 🤝 Let's connect
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/amgadelgamal) or send me an email on [email](mailto:amgad.elgamal@mail.mcgill.ca) !
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/amgadelgamal) or send me an [email](mailto:amgad.elgamal@mail.mcgill.ca) !
