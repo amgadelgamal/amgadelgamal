@@ -10,7 +10,7 @@ Currently pursuing my Bachelor’s in Software Engineering, I’ve delved into c
 
 💼 Professional Experience
 
-My internship experiences have been pivotal in shaping my career path. At Ericsson, I embraced the role of a Machine Learning Engineer Intern, leading projects that enhanced model efficiency and streamlined MLOps management. My efforts contributed to significant advancements in operational efficiency and project delivery.
+My internship experiences have been pivotal in shaping my career path. During my time at Google as a Software Engineering Intern, I developed an open-source Google Chat SDK integrated with generative AI capabilities using Vertex AI and Dialogflow CX. This project streamlined Google Chat app development and enhanced user interaction. At Ericsson, I embraced the role of a Machine Learning Engineer Intern, leading projects that enhanced model efficiency and streamlined MLOps management. My efforts contributed to significant advancements in operational efficiency and project delivery.
 
 🔍 Looking Forward
 
