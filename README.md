@@ -22,7 +22,7 @@ Have a look at my [personal website](https://amgadelgamal.github.io/portfolio/)!
 
 **Programming Langauges**: Java, Python, C, JavaScript, TypeScript, HTML, Bash, R
 
-**Tools/Frameworks**: ElasticSearch, KQL, Git, Express.js, Node.js, MongoDB, React.js, TensorFlow, Keras, Firebase, Linux, Cucumber, Microsoft Azure
+**Tools/Frameworks**: Google Cloud Platform, Vertex AI, Dialogflow CX, ElasticSearch, KQL, Git, Express.js, Node.js, MongoDB, React.js, TensorFlow, Keras, Firebase, Linux, Cucumber, Microsoft Azure
 
 ## 📚 Projects
 
