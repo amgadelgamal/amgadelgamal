@@ -2,37 +2,55 @@
 
 🚀 About Me
 
-I'm a third-year Software Engineering student at McGill University, passionate about harnessing the power of technology to solve complex problems. With a strong foundation in programming and machine learning, I've embarked on a journey to explore the depths of software development and AI.
+I'm a third-year Software Engineering student at McGill University, passionate about leveraging technology to solve complex problems. With strong skills in software engineering, machine learning, and real-time systems, I aim to build impactful, user-facing products and AI-driven solutions.
 
 🎓 Academic Background
 
-Currently pursuing my Bachelor’s in Software Engineering, I’ve delved into courses ranging from Data Structures & Algorithms to Model-Based Programming. My academic journey is complemented by hands-on projects where I challenge myself to apply theoretical knowledge in practical, impactful ways.
+Currently pursuing my Bachelor’s in Software Engineering, I’ve completed courses from Data Structures & Algorithms to Model-Based Programming. My academic work is complemented by hands-on projects applying theory to real-world challenges.
 
 💼 Professional Experience
 
-My internship experiences have been pivotal in shaping my career path. During my time at Google as a Software Engineering Intern, I developed an open-source Google Chat SDK integrated with generative AI capabilities using Vertex AI and Dialogflow CX. This project streamlined Google Chat app development and enhanced user interaction. At Ericsson, I embraced the role of a Machine Learning Engineer Intern, leading projects that enhanced model efficiency and streamlined MLOps management. My efforts contributed to significant advancements in operational efficiency and project delivery.
+**Google — Software Engineering Intern** | May 2025 – Aug 2025 | Seattle, WA  
+- Developed a real-time formula preview feature (Angular + Dart + backend RPCs), cutting validation latency from minutes to seconds.  
+- Built a generative AI tool converting natural language to Google Ads formulas with multi-part prompt engineering for higher LLM relevance.  
+- Implemented comprehensive testing and authored integration plans, ensuring production-grade reliability.  
+- Presented design documents and demos to 40+ engineers and PMs, influencing feature adoption and roadmap decisions.
+
+**Google — Associate Software Developer Intern** | May 2024 – Aug 2024 | Waterloo, ON  
+- Created an open-source Google Chat SDK with generative AI capabilities (Vertex AI & Dialogflow CX).  
+- Automated app deployment across multiple Chat spaces using Node.js and Google Cloud Functions.  
+- Achieved 97% test coverage with JUnit, Jest, Mocha, and Sinon.  
+- Delivered presentations and design documents to senior engineers and managers.
+
+**Ericsson — Machine Learning Intern** | Jan 2024 – May 2024 | Montréal, QC  
+- Led a Multi-Agent Modeling project, improving model accuracy by 16% using Mesa and Python agents.  
+- Integrated Azure for MLOps, reducing deployment times by 15% and enhancing efficiency.  
+
+**University of Sherbrooke — Data Science Intern** | May 2023 – Aug 2023 | Sherbrooke, QC  
+- Processed 300M+ JSON/CSV files to optimize medication plans using Python, Pandas, NumPy, and MATLAB.  
+- Built real-time algorithms and LSTM models in TensorFlow & Keras for physical activity pattern recognition.
 
 🔍 Looking Forward
 
-As I step into this exciting phase of my career, I'm open to connecting with fellow tech enthusiasts, professionals, and mentors in the software engineering and AI fields. Let’s chat!
+I aim to continue building scalable, user-facing products at the intersection of advanced technology and real-world impact. I thrive in high-impact, collaborative environments and enjoy projects that combine technical depth with tangible user outcomes.
 
 Have a look at my [personal website](https://amgadelgamal.github.io/portfolio/)!
 
 ## 👨‍💻 Skills
 
-**Programming Langauges**: Java, Python, C, JavaScript, TypeScript, HTML, Bash, R
+**Programming Languages**: Python, Java, C, JavaScript, TypeScript, Dart, HTML, Bash, R  
 
-**Tools/Frameworks**: Google Cloud Platform, Vertex AI, Dialogflow CX, ElasticSearch, KQL, Git, Express.js, Node.js, MongoDB, React.js, TensorFlow, Keras, Firebase, Linux, Cucumber, Microsoft Azure
+**Tools/Frameworks**: Node.js, React.js, Angular, Express.js, MongoDB, Firebase, TensorFlow, Keras, Linux, Cucumber, Google Cloud Platform, Vertex AI, Dialogflow CX, Microsoft Azure, Elasticsearch, KQL, Git  
 
 ## 📚 Projects
 
-[🎶 Shazoom](https://github.com/amgadelgamal/Shazoom)
+[🎶 Shazoom](https://github.com/amgadelgamal/Shazoom)  
 
-[🍔 Jou-an](https://github.com/amgadelgamal/Jou-an)
+[🍔 Jou-an](https://github.com/amgadelgamal/Jou-an)  
 
-[💰 Currency Exchange](https://github.com/amgadelgamal/CurrencyExchange)
+[💰 Currency Exchange](https://github.com/amgadelgamal/CurrencyExchange)  
 
-[💼 Personal Website](https://github.com/mohdels/mohdels.github.io)
+[💼 Personal Website](https://github.com/mohdels/mohdels.github.io)  
 
 ## 🤝 Let's connect
 
