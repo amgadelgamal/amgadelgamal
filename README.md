@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-I'm a third-year Software Engineering student at McGill University, passionate about leveraging technology to solve complex problems. With strong skills in software engineering, machine learning, and real-time systems, I aim to build impactful, user-facing products and AI-driven solutions.
+I'm a fourth-year Software Engineering student at McGill University, passionate about leveraging technology to solve complex problems. With strong skills in software engineering, machine learning, and real-time systems, I aim to build impactful, user-facing products and AI-driven solutions.
 
 🎓 Academic Background
 
